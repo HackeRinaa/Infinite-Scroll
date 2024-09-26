@@ -1,2 +1,2 @@
 # Infinite-Scroll
-Infinite Scroll 
+Infinite Scroll feature
